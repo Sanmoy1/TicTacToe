@@ -1,5 +1,5 @@
 __Tic Tac Toe Game__
-H1 This is a simple Tic Tac Toe game developed in Android Studio using Java programming language.
+<H1> This is a simple Tic Tac Toe game developed in Android Studio using Java programming language.
 
 **Introduction:**
 The Tic Tac Toe game is a classic two-player game played on a 3x3 grid. The objective of the game is to get three of your symbols in a row, either horizontally, vertically or diagonally. This implementation of the game allows the user to play against another player.
