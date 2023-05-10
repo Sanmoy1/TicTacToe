@@ -1,4 +1,4 @@
-**Tic Tac Toe Game**
+<H1> Tic Tac Toe Game </H1>
 This is a simple Tic Tac Toe game developed in Android Studio using Java programming language.
 
 **Introduction:**
